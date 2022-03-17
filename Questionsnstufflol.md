@@ -9,9 +9,9 @@ No, it will be way too hard.
 this is dave
 say hi to him
 please say hi to him
-# bambi
+# Bambi
 ![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839303534363332393037383632303137302f3930373233363333353631323437333337342f42616d62697570612e676966](https://user-images.githubusercontent.com/96982235/151658384-13d6f462-955e-40df-b22f-a7f1be849aa0.gif)
-this is babmbi
+this is bambi
 say hi to him
 please say hi to him
 # Tristan
